@@ -1,0 +1,65 @@
+
+Running: python -m src.run_simulations
+Computed animation data: no_mean_drift
+Computed animation data: toward
+Computed animation data: away
+Computed animation data: transverse
+{
+  "toward_slow_to_fast_peak_ratio": 0.33672152521624715,
+  "toward_slow_to_fast_exposure_120s_ratio": 0.9915580681505944,
+  "toward_slow_to_fast_infinite_exposure_ratio": 1.0,
+  "no_mean_drift_fast_tail_fraction_after120s": 0.4544521135683026,
+  "maximum_canonical_finite_exposure_relative_numerical_error": 1.6591624115741959e-06,
+  "maximum_field_order128_vs256_absolute_difference_per_m3": 1.708855279503041e-12,
+  "sensitivity_cases": 189,
+  "sensitivity_toward_120s_ratio_range": [
+    1.1649996490709238,
+    10.438450399727916
+  ],
+  "sensitivity_transverse_120s_ratio_range": [
+    5.052282041816979e-16,
+    0.866846582826044
+  ],
+  "sensitivity_away_120s_ratio_range": [
+    3.02145412738827e-32,
+    0.6450150323710165
+  ]
+}
+Saved numerical outputs in <extracted-project>/results
+
+Running: python -m src.make_visuals
+
+Running: python scripts/export_tk.py
+Wrote complete article_tk.md
+
+Running: python tests/run_checks.py
+test_constant_emission_checks_both_quadrature_endpoints (test_model_independent.ConvolutionChecks.test_constant_emission_checks_both_quadrature_endpoints) ... ok
+test_equal_yield_timing_and_window_effect (test_model_independent.ConvolutionChecks.test_equal_yield_timing_and_window_effect) ... ok
+test_finite_exposure_and_time_refinement (test_model_independent.ConvolutionChecks.test_finite_exposure_and_time_refinement) ... ok
+test_history_against_adaptive_quadrature (test_model_independent.ConvolutionChecks.test_history_against_adaptive_quadrature) ... ok
+test_zero_source_scaling_nonnegativity_and_causality (test_model_independent.ConvolutionChecks.test_zero_source_scaling_nonnegativity_and_causality) ... ok
+test_field_quadrature_at_source_observer_and_off_axis (test_model_independent.FieldChecks.test_field_quadrature_at_source_observer_and_off_axis) ... ok
+test_figure_field_and_observation_history_agree (test_model_independent.FieldChecks.test_figure_field_and_observation_history_agree) ... ok
+test_finite_source_closed_form_across_parameter_sweep (test_model_independent.KernelChecks.test_finite_source_closed_form_across_parameter_sweep) ... ok
+test_finite_source_integral_independent_quadrature (test_model_independent.KernelChecks.test_finite_source_integral_independent_quadrature) ... ok
+test_fixed_loss_mass_and_point_source_limit (test_model_independent.KernelChecks.test_fixed_loss_mass_and_point_source_limit) ... ok
+test_independent_probability_density_and_observation_averaging (test_model_independent.KernelChecks.test_independent_probability_density_and_observation_averaging) ... ok
+test_point_source_limit_and_flow_alignment (test_model_independent.KernelChecks.test_point_source_limit_and_flow_alignment) ... ok
+test_reflection_and_opposite_flow_ratio (test_model_independent.KernelChecks.test_reflection_and_opposite_flow_ratio) ... ok
+test_spatial_mass_mean_and_variance (test_model_independent.KernelChecks.test_spatial_mass_mean_and_variance) ... ok
+test_zero_flow_infinite_integral_at_and_away_from_source (test_model_independent.KernelChecks.test_zero_flow_infinite_integral_at_and_away_from_source) ... ok
+test_nonnegative_release_and_finite_window_yield (test_model_independent.SourceChecks.test_nonnegative_release_and_finite_window_yield) ... ok
+test_release_against_independent_material_balance_ode (test_model_independent.SourceChecks.test_release_against_independent_material_balance_ode) ... ok
+test_unit_yield_and_mean_emission_time (test_model_independent.SourceChecks.test_unit_yield_and_mean_emission_time) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 1.619s
+
+OK
+
+Saved-output audit: passed
+
+Running: python scripts/validate_package.py
+Article and package preflight passed: eight references, consistent numbers, current visual inputs and local assets.
+
+Completed in 44.4 seconds.

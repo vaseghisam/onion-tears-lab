@@ -1,0 +1,25 @@
+test_constant_emission_checks_both_quadrature_endpoints (test_model_independent.ConvolutionChecks.test_constant_emission_checks_both_quadrature_endpoints) ... ok
+test_equal_yield_timing_and_window_effect (test_model_independent.ConvolutionChecks.test_equal_yield_timing_and_window_effect) ... ok
+test_finite_exposure_and_time_refinement (test_model_independent.ConvolutionChecks.test_finite_exposure_and_time_refinement) ... ok
+test_history_against_adaptive_quadrature (test_model_independent.ConvolutionChecks.test_history_against_adaptive_quadrature) ... ok
+test_zero_source_scaling_nonnegativity_and_causality (test_model_independent.ConvolutionChecks.test_zero_source_scaling_nonnegativity_and_causality) ... ok
+test_field_quadrature_at_source_observer_and_off_axis (test_model_independent.FieldChecks.test_field_quadrature_at_source_observer_and_off_axis) ... ok
+test_figure_field_and_observation_history_agree (test_model_independent.FieldChecks.test_figure_field_and_observation_history_agree) ... ok
+test_finite_source_closed_form_across_parameter_sweep (test_model_independent.KernelChecks.test_finite_source_closed_form_across_parameter_sweep) ... ok
+test_finite_source_integral_independent_quadrature (test_model_independent.KernelChecks.test_finite_source_integral_independent_quadrature) ... ok
+test_fixed_loss_mass_and_point_source_limit (test_model_independent.KernelChecks.test_fixed_loss_mass_and_point_source_limit) ... ok
+test_independent_probability_density_and_observation_averaging (test_model_independent.KernelChecks.test_independent_probability_density_and_observation_averaging) ... ok
+test_point_source_limit_and_flow_alignment (test_model_independent.KernelChecks.test_point_source_limit_and_flow_alignment) ... ok
+test_reflection_and_opposite_flow_ratio (test_model_independent.KernelChecks.test_reflection_and_opposite_flow_ratio) ... ok
+test_spatial_mass_mean_and_variance (test_model_independent.KernelChecks.test_spatial_mass_mean_and_variance) ... ok
+test_zero_flow_infinite_integral_at_and_away_from_source (test_model_independent.KernelChecks.test_zero_flow_infinite_integral_at_and_away_from_source) ... ok
+test_nonnegative_release_and_finite_window_yield (test_model_independent.SourceChecks.test_nonnegative_release_and_finite_window_yield) ... ok
+test_release_against_independent_material_balance_ode (test_model_independent.SourceChecks.test_release_against_independent_material_balance_ode) ... ok
+test_unit_yield_and_mean_emission_time (test_model_independent.SourceChecks.test_unit_yield_and_mean_emission_time) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 1.754s
+
+OK
+
+Saved-output audit: passed

@@ -1,0 +1,220 @@
+{
+  "generated_utc": "2026-09-27T11:45:48.835912+00:00",
+  "review_scope": "Numerical verification and saved-output consistency; no empirical onion or physiological validation.",
+  "reviewer_file_sha256": {
+    "tests/run_checks.py": "cdc825944afe81eaa6a078bb6240381f0ce6b9044e2f77e76e5161f224cee4f9",
+    "tests/test_model_independent.py": "5c53074dfb0228cb6c185d97f8b0280b43bfce4e7f48eecad5b1403e04b60a2c"
+  },
+  "saved_output_audit": {
+    "animation_samples_checked": 48,
+    "history_rows_checked": 76808,
+    "history_snapshot_errors": [
+      {
+        "absolute_error_per_m3": 5.481995699540502e-08,
+        "relative_error": 9.973490513990478e-05,
+        "relative_error_is_resolved": true,
+        "scenario_id": "no_mean_drift",
+        "time_s": 3
+      },
+      {
+        "absolute_error_per_m3": 8.837633194425099e-07,
+        "relative_error": 4.00448118606257e-06,
+        "relative_error_is_resolved": true,
+        "scenario_id": "no_mean_drift",
+        "time_s": 10
+      },
+      {
+        "absolute_error_per_m3": 6.727188084920677e-07,
+        "relative_error": 1.4035914879809441e-06,
+        "relative_error_is_resolved": true,
+        "scenario_id": "no_mean_drift",
+        "time_s": 30
+      },
+      {
+        "absolute_error_per_m3": 1.419325002666172e-07,
+        "relative_error": 1.5174352606009308e-06,
+        "relative_error_is_resolved": true,
+        "scenario_id": "no_mean_drift",
+        "time_s": 120
+      },
+      {
+        "absolute_error_per_m3": 1.57077112656126e-06,
+        "relative_error": 9.340655598823017e-05,
+        "relative_error_is_resolved": true,
+        "scenario_id": "toward",
+        "time_s": 3
+      },
+      {
+        "absolute_error_per_m3": 6.859368498091101e-06,
+        "relative_error": 2.2020724432381003e-06,
+        "relative_error_is_resolved": true,
+        "scenario_id": "toward",
+        "time_s": 10
+      },
+      {
+        "absolute_error_per_m3": 8.473298973576959e-08,
+        "relative_error": 2.2031910393283998e-07,
+        "relative_error_is_resolved": true,
+        "scenario_id": "toward",
+        "time_s": 30
+      },
+      {
+        "absolute_error_per_m3": 1.554202360488044e-16,
+        "relative_error": 1.2375820300087968e-07,
+        "relative_error_is_resolved": false,
+        "scenario_id": "toward",
+        "time_s": 120
+      },
+      {
+        "absolute_error_per_m3": 5.854281897054353e-10,
+        "relative_error": 8.368198632882295e-05,
+        "relative_error_is_resolved": true,
+        "scenario_id": "away",
+        "time_s": 3
+      },
+      {
+        "absolute_error_per_m3": 1.890137116050336e-09,
+        "relative_error": 2.030530318195128e-06,
+        "relative_error_is_resolved": true,
+        "scenario_id": "away",
+        "time_s": 10
+      },
+      {
+        "absolute_error_per_m3": 2.1326863628508448e-11,
+        "relative_error": 2.1003818665040923e-07,
+        "relative_error_is_resolved": true,
+        "scenario_id": "away",
+        "time_s": 30
+      },
+      {
+        "absolute_error_per_m3": 5.561358214772063e-19,
+        "relative_error": 1.8022714373358646e-06,
+        "relative_error_is_resolved": false,
+        "scenario_id": "away",
+        "time_s": 120
+      },
+      {
+        "absolute_error_per_m3": 3.0324474698992764e-08,
+        "relative_error": 8.848113398002364e-05,
+        "relative_error_is_resolved": true,
+        "scenario_id": "transverse",
+        "time_s": 3
+      },
+      {
+        "absolute_error_per_m3": 1.1386459945056382e-07,
+        "relative_error": 2.1156860412758947e-06,
+        "relative_error_is_resolved": true,
+        "scenario_id": "transverse",
+        "time_s": 10
+      },
+      {
+        "absolute_error_per_m3": 1.3442800700716462e-09,
+        "relative_error": 2.1518360243110355e-07,
+        "relative_error_is_resolved": true,
+        "scenario_id": "transverse",
+        "time_s": 30
+      },
+      {
+        "absolute_error_per_m3": 2.251089325464158e-18,
+        "relative_error": 1.1435958205806288e-07,
+        "relative_error_is_resolved": false,
+        "scenario_id": "transverse",
+        "time_s": 120
+      }
+    ],
+    "loss_sensitivity_cases_checked": 24,
+    "maximum_animation_sample_relative_error_above_1e_minus8": 5.592399276700324e-08,
+    "maximum_history_exposure_relative_error": 1.6591624116969472e-06,
+    "maximum_loss_infinite_exposure_relative_error": 9.53164703135798e-16,
+    "maximum_sensitivity_infinite_exposure_relative_error": 1.6948474842879658e-14,
+    "maximum_source_inventory_mass_error": 2.220446049250313e-16,
+    "production_hashes": {
+      "config_sha256": "83a929b08bd57818d654ee91e2deacd2d7e5deb6cd3a29265e9e62f46c3217f7",
+      "driver_code_sha256": "b7fd70ab35ef7c29bc55f370a0cdfa1f34c4ac67d37b40e0839e61c326b0703d",
+      "model_code_sha256": "ca494970f7c757ccbbb072c6f323ed1d86262bd3d861a5cbea789fc7c5a7dc42"
+    },
+    "sensitivity_cases_checked": 189,
+    "source_history_rows_checked": 19202,
+    "status": "passed",
+    "summary_cases": [
+      {
+        "history_exposure_relative_error": 1.6591624116969472e-06,
+        "independent_exposure_120s_s_per_m3": 28.9422622928939,
+        "independent_infinite_exposure_s_per_m3": 53.05164769729845,
+        "infinite_exposure_relative_error": 0.0,
+        "scenario_id": "no_mean_drift",
+        "source_id": "fast"
+      },
+      {
+        "history_exposure_relative_error": 1.627602313190209e-06,
+        "independent_exposure_120s_s_per_m3": 52.181948549042495,
+        "independent_infinite_exposure_s_per_m3": 52.18194855471983,
+        "infinite_exposure_relative_error": 9.53164703135798e-16,
+        "scenario_id": "toward",
+        "source_id": "fast"
+      },
+      {
+        "history_exposure_relative_error": 1.6276023132463211e-06,
+        "independent_exposure_120s_s_per_m3": 0.014900337693162796,
+        "independent_infinite_exposure_s_per_m3": 0.014900337694556103,
+        "infinite_exposure_relative_error": 1.164217557707162e-16,
+        "scenario_id": "away",
+        "source_id": "fast"
+      },
+      {
+        "history_exposure_relative_error": 1.6276023113147076e-06,
+        "independent_exposure_120s_s_per_m3": 0.8810209869946488,
+        "independent_infinite_exposure_s_per_m3": 0.8810209870835827,
+        "infinite_exposure_relative_error": 3.780465077115681e-16,
+        "scenario_id": "transverse",
+        "source_id": "fast"
+      },
+      {
+        "history_exposure_relative_error": 7.557382528612863e-08,
+        "independent_exposure_120s_s_per_m3": 25.742278523107366,
+        "independent_infinite_exposure_s_per_m3": 53.05164769729845,
+        "infinite_exposure_relative_error": 0.0,
+        "scenario_id": "no_mean_drift",
+        "source_id": "slow"
+      },
+      {
+        "history_exposure_relative_error": 6.593379951846361e-08,
+        "independent_exposure_120s_s_per_m3": 51.74135129265161,
+        "independent_infinite_exposure_s_per_m3": 52.18194855471983,
+        "infinite_exposure_relative_error": 9.53164703135798e-16,
+        "scenario_id": "toward",
+        "source_id": "slow"
+      },
+      {
+        "history_exposure_relative_error": 6.591911943618548e-08,
+        "independent_exposure_120s_s_per_m3": 0.014776741666302853,
+        "independent_infinite_exposure_s_per_m3": 0.014900337694556103,
+        "infinite_exposure_relative_error": 1.164217557707162e-16,
+        "scenario_id": "away",
+        "source_id": "slow"
+      },
+      {
+        "history_exposure_relative_error": 6.592649178843338e-08,
+        "independent_exposure_120s_s_per_m3": 0.8736473221757046,
+        "independent_infinite_exposure_s_per_m3": 0.8810209870835827,
+        "infinite_exposure_relative_error": 3.780465077115681e-16,
+        "scenario_id": "transverse",
+        "source_id": "slow"
+      }
+    ],
+    "summary_cases_checked": 8
+  },
+  "schema_version": 1,
+  "software": {
+    "numpy": "2.3.5",
+    "python": "3.12.14",
+    "scipy": "1.17.0"
+  },
+  "status": "passed",
+  "unit_tests": {
+    "errors": 0,
+    "failures": 0,
+    "run": 18,
+    "skipped": 0
+  }
+}

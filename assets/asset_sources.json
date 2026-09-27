@@ -1,0 +1,86 @@
+{
+  "version": "1.1.0",
+  "date": "2026-09-27",
+  "images": [
+    {
+      "label": "Unnumbered lead image",
+      "path": "assets/feature_peeling_onions.png",
+      "alt": "Peeling Onions, by Lilly Martin Spencer, ca. 1852",
+      "manuscript_image_url": "https://miro.medium.com/v2/eb88c6c27bfb7e7ab3e76c953a87ee177d152d47b9fb4c71074ff5a54f3b615a",
+      "attribution": "Lilly Martin Spencer; Memorial Art Gallery, Rochester, NY",
+      "source_url": "https://mag.rochester.edu/wp-content/uploads/large-files/multimedia/audio-descriptions/PeelingOnions-transcript.pdf",
+      "origin": "third-party image supplied through author manuscript",
+      "sha256": "9990bfce5d2ae0d94fa8dcd387e8130e6f1a0bbfa584b9fad0077bfc55b0aaeb"
+    },
+    {
+      "label": "Figure 1",
+      "path": "assets/figure_01_lfs_structure.png",
+      "alt": "Crystal structure of lachrymatory-factor synthase",
+      "manuscript_image_url": "https://miro.medium.com/v2/7a42002d46e616554168af8edec4e59ecc3c913406defd7c56051b75e74b3c21",
+      "attribution": "Silvaroli and colleagues (2017), article reference [1]",
+      "source_url": "https://doi.org/10.1021/acschembio.7b00336",
+      "origin": "third-party image supplied through author manuscript",
+      "sha256": "7acb6926e23b3e8c7571628d8ce020ea68299f54c2b57cb6ad3e558449a2e596"
+    },
+    {
+      "label": "Figure 2",
+      "path": "assets/figure_02_chemistry.png",
+      "alt": "Reaction sequence from damaged tissue to irritation",
+      "manuscript_image_url": "https://miro.medium.com/v2/ab70212281e758f32bc0cafaddf73321d096a747dc4fedab6c5551c3d917bddd",
+      "attribution": "Original project schematic; article references [1], [2]",
+      "source_url": null,
+      "origin": "original project asset",
+      "sha256": "7810173475fc0de8566713b3ed8822026aceea7776e9155b5ddf7b5458d62da3"
+    },
+    {
+      "label": "Figure 3",
+      "path": "assets/figure_03_sulfur_pathway.png",
+      "alt": "Sulfur pathway following tissue disruption in onion",
+      "manuscript_image_url": "https://miro.medium.com/v2/cf6d8189a3f816af343b54dadc83dad3ea3eab03eb2160ab9cd6b06839342539",
+      "attribution": "Eady and colleagues (2008), article reference [3]",
+      "source_url": "https://doi.org/10.1104/pp.108.123273",
+      "origin": "third-party image supplied through author manuscript",
+      "sha256": "0eb924ed5fb8ea2d9166468959f6a8672a21b165368e9ef43139411abc1dfd42"
+    },
+    {
+      "label": "Animation 1",
+      "path": "assets/animation_01_transport.gif",
+      "alt": "Four prescribed airflow directions",
+      "manuscript_image_url": "https://miro.medium.com/v2/00deffaaee38357de11fc8f5cdd7bdd46ce88d1dc304db277c63e2d296095ed1",
+      "attribution": "Original project simulation",
+      "source_url": null,
+      "origin": "original project asset",
+      "sha256": "36ef9e0d9564c9a5a181b579ee3f6bc578974754bbb9ee248dbb308b61d5c695"
+    },
+    {
+      "label": "Unnumbered exposure table",
+      "path": "assets/table_01_air_motion.png",
+      "alt": "Exposure over 120 seconds for four airflow directions",
+      "manuscript_image_url": "https://miro.medium.com/v2/ade5944fa6fca96a8d2399087340fb7fc568d89fdd7f381c8905d54f143d8e4b",
+      "attribution": "Original project results",
+      "source_url": null,
+      "origin": "original project asset",
+      "sha256": "fb2b5505e4c6e90f80231ae1cfab6ad615caefcf458c75a1379fb2b1d7db7594"
+    },
+    {
+      "label": "Figure 4",
+      "path": "assets/figure_04_release_exposure.png",
+      "alt": "Release histories, concentration, and accumulated exposure",
+      "manuscript_image_url": "https://miro.medium.com/v2/6f1fdba609547989e61de72d61fb9877b93bedaf556d117bebdec2014e0c543d",
+      "attribution": "Original project simulation",
+      "source_url": null,
+      "origin": "original project asset",
+      "sha256": "20efe6114963f3dad01a3b1bd211d0a59086d1fbf6009254190a2a2a986f1e89"
+    },
+    {
+      "label": "Figure 5",
+      "path": "assets/figure_05_remedies.png",
+      "alt": "Evidence assessment for onion remedies",
+      "manuscript_image_url": "https://miro.medium.com/v2/cb99d08f6f4763ce189493bf61fc8f44fe1a4ce257e7c12215e259e9276fbde7",
+      "attribution": "Original project evidence summary",
+      "source_url": null,
+      "origin": "original project asset",
+      "sha256": "cc09a7e74495c5ce42e95a080bfd16ffc716f3db1901fb17031edf5f0c2c473d"
+    }
+  ]
+}

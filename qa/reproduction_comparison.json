@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "method": "Full reproduction after extracting the provisional archive into a separate directory.",
+  "run_duration_seconds": 44.4,
+  "results_csv_byte_identical": {
+    "field_quadrature_convergence.csv": true,
+    "loss_sensitivity.csv": true,
+    "sensitivity.csv": true,
+    "source_histories.csv": true,
+    "summary.csv": true,
+    "tail_convergence.csv": true,
+    "time_convergence.csv": true,
+    "time_histories.csv": true
+  },
+  "asset_byte_comparison_before_copy": {
+    "animation_01_transport.gif": true,
+    "animation_01_transport.mp4": true,
+    "animation_01_transport_static.png": true,
+    "figure_01_chemistry.png": true,
+    "figure_02_release_exposure.png": true,
+    "figure_03_remedies.png": true
+  },
+  "animation_arrays_exactly_equal": {
+    "times_s": true,
+    "x_m": true,
+    "z_m": true,
+    "scenario_ids": true,
+    "concentration_per_m3": true,
+    "velocity_m_s": true,
+    "observation_position_m": true,
+    "source_position_m": true,
+    "diffusivity_m2_s": true,
+    "source_sigma_m": true,
+    "observation_sigma_m": true,
+    "total_emitted_amount": true,
+    "source_id": true,
+    "field_is_pointwise": true,
+    "config_sha256": true
+  },
+  "summary_json_byte_identical": true,
+  "code_and_input_hashes_unchanged": true
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "model_id": "free_space_gaussian_advection_diffusion_v1",
+  "geometry": {
+    "source_position_m": [0.0, 0.0, 0.0],
+    "observation_position_m": [0.3, 0.0, 0.4],
+    "source_sigma_m": 0.03,
+    "observation_sigma_m": 0.01
+  },
+  "diffusivity_m2_s": 0.003,
+  "flow_speed_m_s": 0.05,
+  "sources": {
+    "fast": {"k_production_per_s": 0.5, "k_release_per_s": 0.25},
+    "slow": {"k_production_per_s": 0.1, "k_release_per_s": 0.05}
+  },
+  "history": {"end_time_s": 120.0, "time_step_s": 0.0125},
+  "animation": {
+    "end_time_s": 60.0,
+    "frame_step_s": 1.0,
+    "x_range_m": [-0.8, 1.0],
+    "z_range_m": [-0.8, 1.0],
+    "nx": 121,
+    "nz": 121,
+    "quadrature_order": 128
+  },
+  "sensitivity": {
+    "diffusivity_m2_s": [0.001, 0.003, 0.01],
+    "flow_speed_m_s": [0.02, 0.05, 0.1],
+    "distance_m": [0.3, 0.5, 0.8],
+    "angle_deg": [0, 30, 60, 90, 120, 150, 180],
+    "loss_rate_per_s": [0.0, 0.02, 0.1]
+  },
+  "assumptions": [
+    "All parameters are illustrative, not calibrated to onion measurements.",
+    "D_eff is a constant effective dispersion coefficient, not measured LF molecular diffusivity.",
+    "Velocity is uniform and prescribed; no room, body, board, wall, buoyancy, sink, or return flow is resolved.",
+    "The 3D domain is all space, with initially zero concentration and decay at spatial infinity.",
+    "Source and observer are normalized Gaussian functions, with infinite support and stated coordinate standard deviations.",
+    "Total emitted amount is one unspecified unit; source amplitude is not a molar measurement.",
+    "The baseline passive scalar has no reaction or deposition loss; optional loss sensitivities are explicitly illustrative.",
+    "Observation is a mathematical spatial average, not ocular absorption or tear volume.",
+    "Source timing is imposed independently of flow, temperature, cutting, and droplet generation.",
+    "Sensitivity ranges are scenario ranges, not confidence intervals."
+  ]
+}

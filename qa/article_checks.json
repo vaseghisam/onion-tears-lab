@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "generated_utc": "2026-09-27T11:52:26.411240+00:00",
+  "scope": "Local Markdown syntax, file/citation consistency and rounded headline values; not an actual TK import.",
+  "article_sha256": "18125c372ee9c8c991e321866f89490505de46540e04706753b459f16036e674",
+  "tk_export_sha256": "1ed812dd0f9c5112d4fc035ec9a269e69b4b443ebb48d138770699f24cc46489",
+  "reference_count": 8,
+  "display_equation_count": 6,
+  "local_links_checked": 25,
+  "headline_values_checked": 8,
+  "visual_input_hashes_current": true,
+  "figure_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "animation_numbers": [
+    1
+  ],
+  "local_article_images": 8,
+  "exposure_table_checked_against_saved_data": true
+}

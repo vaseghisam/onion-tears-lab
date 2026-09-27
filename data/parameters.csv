@@ -1,0 +1,35 @@
+parameter,value,units,role,provenance,interpretation
+total_eventual_emitted_amount,1,arbitrary amount unit,normalization,definition,No molar calibration; equal for fast and slow source profiles
+source_x,0,m,geometry,illustrative assumption,Origin of normalized Gaussian source
+source_y,0,m,geometry,illustrative assumption,Origin of normalized Gaussian source
+source_z,0,m,geometry,illustrative assumption,Origin of normalized Gaussian source
+observation_x,0.3,m,geometry,illustrative assumption,Observation centre relative to source
+observation_y,0,m,geometry,illustrative assumption,Observation centre relative to source
+observation_z,0.4,m,geometry,illustrative assumption,Observation centre relative to source
+source_observation_distance,0.5,m,geometry,derived from coordinates,Euclidean centre-to-centre distance
+source_sigma,0.03,m,spatial regularization,illustrative assumption,Coordinate standard deviation of 3D Gaussian emission density; not a hard radius
+observation_sigma,0.01,m,spatial averaging,illustrative assumption,Coordinate standard deviation of mathematical Gaussian averaging weight; not ocular anatomy
+effective_dispersion,0.003,m2/s,transport,illustrative assumption,Constant isotropic effective dispersion; not measured molecular diffusivity of onion LF
+flow_speed,0.05,m/s,transport,illustrative assumption,Prescribed uniform velocity for three nonzero-flow cases
+effective_peclet_number,8.333333333333334,dimensionless,transport,derived,Speed times distance divided by effective dispersion
+fast_production_rate,0.5,1/s,source timing,illustrative assumption,2-second time constant; not measured onion kinetics
+fast_release_rate,0.25,1/s,source timing,illustrative assumption,4-second time constant; not measured onion kinetics
+slow_production_rate,0.1,1/s,source timing,illustrative assumption,10-second time constant; not a chilling or knife treatment
+slow_release_rate,0.05,1/s,source timing,illustrative assumption,20-second time constant; not a chilling or knife treatment
+canonical_loss_rate,0,1/s,transport,illustrative assumption,No reaction or deposition in baseline comparisons
+history_time_step,0.0125,s,numerical integration,refinement checked,Composite-trapezoid causal convolution and accumulated exposure
+history_end_time,120,s,reporting window,declared comparison,Finite exposure window; not the eventual total
+animation_end_time,60,s,visualization,declared display,Physical time; playback speed is set by visual-production script
+animation_frame_step,1,s,visualization,declared display,Time between saved concentration fields
+animation_x_min,-0.8,m,visualization,declared display,Plot window only; not a simulation boundary
+animation_x_max,1,m,visualization,declared display,Plot window only; not a simulation boundary
+animation_z_min,-0.8,m,visualization,declared display,Plot window only; not a simulation boundary
+animation_z_max,1,m,visualization,declared display,Plot window only; not a simulation boundary
+animation_nx,121,samples,visualization,declared sampling,Analytic 3D field sampled for an x-z slice
+animation_nz,121,samples,visualization,declared sampling,Analytic 3D field sampled for an x-z slice
+field_quadrature_order,128,nodes,numerical integration,checked against 256 nodes,Gauss-Legendre integration over source history
+sensitivity_effective_dispersion,0.001;0.003;0.01,m2/s,sensitivity,illustrative scenario range,No probability distribution or confidence interpretation
+sensitivity_flow_speed,0.02;0.05;0.1,m/s,sensitivity,illustrative scenario range,No probability distribution or confidence interpretation
+sensitivity_distance,0.3;0.5;0.8,m,sensitivity,illustrative scenario range,Observation lies along original source-to-observer direction
+sensitivity_angle,0;30;60;90;120;150;180,degrees,sensitivity,illustrative scenario range,Angle between prescribed flow and source-to-observer displacement
+sensitivity_loss_rate,0;0.02;0.1,1/s,sensitivity,illustrative scenario range,Not measured LF decay constants; checks consequences of a stationary sink

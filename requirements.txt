@@ -1,0 +1,5 @@
+# Tested with Python 3.12.14. FFmpeg is also required for MP4 export.
+numpy==2.3.5
+scipy==1.17.0
+matplotlib==3.10.8
+Pillow==12.3.0

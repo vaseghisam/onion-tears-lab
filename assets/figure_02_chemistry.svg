@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="958.896pt" height="298.604516pt" viewBox="0 0 958.896 298.604516" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-24T18:17:35.136876</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 298.604516 
+L 958.896 298.604516 
+L 958.896 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 27.429552 215.88192 
+L 210.857328 215.88192 
+Q 222.0876 215.88192 222.0876 213.414336 
+L 222.0876 154.603584 
+Q 222.0876 152.136 210.857328 152.136 
+L 27.429552 152.136 
+Q 16.19928 152.136 16.19928 154.603584 
+L 16.19928 213.414336 
+Q 16.19928 215.88192 27.429552 215.88192 
+z
+" clip-path="url(#p0e7dc38590)" style="fill: #ffffff; stroke: #e2e7ea; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 270.752112 215.88192 
+L 454.179888 215.88192 
+Q 465.41016 215.88192 465.41016 213.414336 
+L 465.41016 154.603584 
+Q 465.41016 152.136 454.179888 152.136 
+L 270.752112 152.136 
+Q 259.52184 152.136 259.52184 154.603584 
+L 259.52184 213.414336 
+Q 259.52184 215.88192 270.752112 215.88192 
+z
+" clip-path="url(#p0e7dc38590)" style="fill: #ffffff; stroke: #e2e7ea; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 514.074672 215.88192 
+L 697.502448 215.88192 
+Q 708.73272 215.88192 708.73272 213.414336 
+L 708.73272 154.603584 
+Q 708.73272 152.136 697.502448 152.136 
+L 514.074672 152.136 
+Q 502.8444 152.136 502.8444 154.603584 
+L 502.8444 213.414336 
+Q 502.8444 215.88192 514.074672 215.88192 
+z
+" clip-path="url(#p0e7dc38590)" style="fill: #f4f7f9; stroke: #1f658c; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 748.038672 215.88192 
+L 931.466448 215.88192 
+Q 942.69672 215.88192 942.69672 213.414336 
+L 942.69672 154.603584 
+Q 942.69672 152.136 931.466448 152.136 
+L 748.038672 152.136 
+Q 736.8084 152.136 736.8084 154.603584 
+L 736.8084 213.414336 
+Q 736.8084 215.88192 748.038672 215.88192 
+z
+" clip-path="url(#p0e7dc38590)" style="fill: #ffffff; stroke: #e2e7ea; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 225.962172 184.00896 
+Q 240.806231 184.00896 254.308649 184.00896 
+" clip-path="url(#p0e7dc38590)" style="fill: none; stroke: #202a30; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 249.108649 181.40896 
+L 254.308649 184.00896 
+L 249.108649 186.60896 
+z
+" clip-path="url(#p0e7dc38590)" style="fill: #202a30; stroke: #202a30; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 469.284732 184.00896 
+Q 484.128791 184.00896 497.631209 184.00896 
+" clip-path="url(#p0e7dc38590)" style="fill: none; stroke: #202a30; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 492.431209 181.40896 
+L 497.631209 184.00896 
+L 492.431209 186.60896 
+z
+" clip-path="url(#p0e7dc38590)" style="fill: #202a30; stroke: #202a30; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 712.603408 184.00896 
+Q 722.770884 184.00896 731.59672 184.00896 
+" clip-path="url(#p0e7dc38590)" style="fill: none; stroke: #202a30; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 726.39672 181.40896 
+L 731.59672 184.00896 
+L 726.39672 186.60896 
+z
+" clip-path="url(#p0e7dc38590)" style="fill: #202a30; stroke: #202a30; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 44.27496 95.5872 
+L 708.73272 95.5872 
+" clip-path="url(#p0e7dc38590)" style="fill: none; stroke: #e2e7ea; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 500; font-size: 12.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #202a30" x="119.14344" y="187.54096" transform="rotate(-0 119.14344 187.54096)">Isoalliin</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #59656d" x="119.14344" y="241.260815" transform="rotate(-0 119.14344 241.260815)">Sulfur precursor</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 500; font-size: 12.8px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(305.228 179.64491)">1-Propenesulfenic</text>
+    <text style="font-weight: 500; font-size: 12.8px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(349.184 195.43701)">acid</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #59656d" x="362.466" y="241.260815" transform="rotate(-0 362.466 241.260815)">Reaction intermediate</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 500; font-size: 12.8px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(552.12956 179.64491)">syn-Propanethial</text>
+    <text style="font-weight: 500; font-size: 12.8px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(582.01356 195.43701)">S-oxide</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #59656d" x="605.78856" y="241.260815" transform="rotate(-0 605.78856 241.260815)">Lachrymatory factor</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 500; font-size: 12.8px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(798.55256 179.64491)">Eye irritation</text>
+    <text style="font-weight: 500; font-size: 12.8px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(789.23956 195.43701)">and reflex tears</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #59656d" x="839.75256" y="241.260815" transform="rotate(-0 839.75256 241.260815)">Response to exposure</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1f658c" x="240.80472" y="135.498304" transform="rotate(-0 240.80472 135.498304)">alliinase</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1f658c" x="484.12728" y="135.498304" transform="rotate(-0 484.12728 135.498304)">LF synthase</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #59656d" transform="translate(698.513099 129.021075)">transport</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #59656d" transform="translate(693.642904 141.975532)">through air</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #59656d" x="44.27496" y="88.574681" transform="rotate(-0 44.27496 88.574681)">CHEMISTRY IN DAMAGED TISSUE</text>
+   </g>
+  </g>
+  <g id="text_13">
+   <text style="font-weight: 700; font-size: 22px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #202a30" x="50.112" y="28.236562" transform="rotate(-0 50.112 28.236562)">From cut tissue to reflex tears</text>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #59656d" x="50.112" y="40.821403" transform="rotate(-0 50.112 40.821403)">Cutting brings the precursor isoalliin into contact with alliinase.</text>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 9.1px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #59656d" x="50.112" y="285.192" transform="rotate(-0 50.112 285.192)">Enzyme names label the reactions. Coproducts and competing reactions omitted. Schematic; molecular structures and distances not shown.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0e7dc38590">
+   <rect x="11.52" y="75.024" width="935.856" height="205.632"/>
+  </clipPath>
+ </defs>
+</svg>

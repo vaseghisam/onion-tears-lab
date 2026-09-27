@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "generated_utc": "2026-09-24T17:19:47.703317+00:00",
+  "scope": "Local Markdown syntax, file/citation consistency and rounded headline values; not an actual TK import.",
+  "article_sha256": "8bcecb8cacbf63e406d61039f33b96d2e8ad1d2d012350203237c36d5dca567d",
+  "tk_export_sha256": "4e0c21e5709077df533dd6634d473b594ffc23fa46d33c24f730cc8e97d8597b",
+  "reference_count": 8,
+  "display_equation_count": 6,
+  "local_links_checked": 16,
+  "headline_values_checked": 8,
+  "visual_input_hashes_current": true
+}

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="961.6032pt" height="645.063697pt" viewBox="0 0 961.6032 645.063697" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-24T18:17:35.411287</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 645.063697 
+L 961.6032 645.063697 
+L 961.6032 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 11.52 195.163776 
+L 950.0832 195.163776 
+L 950.0832 142.0956 
+L 11.52 142.0956 
+z
+" clip-path="url(#p1d4ed21a1a)" style="fill: #f5f7f8"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 11.52 301.300128 
+L 950.0832 301.300128 
+L 950.0832 248.231952 
+L 11.52 248.231952 
+z
+" clip-path="url(#p1d4ed21a1a)" style="fill: #f5f7f8"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 11.52 407.43648 
+L 950.0832 407.43648 
+L 950.0832 354.368304 
+L 11.52 354.368304 
+z
+" clip-path="url(#p1d4ed21a1a)" style="fill: #f5f7f8"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 11.52 513.572832 
+L 950.0832 513.572832 
+L 950.0832 460.504656 
+L 11.52 460.504656 
+z
+" clip-path="url(#p1d4ed21a1a)" style="fill: #f5f7f8"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 11.52 142.0956 
+L 950.0832 142.0956 
+" clip-path="url(#p1d4ed21a1a)" style="fill: none; stroke: #202a30; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 11.52 195.163776 
+L 950.0832 195.163776 
+" clip-path="url(#p1d4ed21a1a)" style="fill: none; stroke: #e2e7ea; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 11.52 248.231952 
+L 950.0832 248.231952 
+" clip-path="url(#p1d4ed21a1a)" style="fill: none; stroke: #e2e7ea; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 11.52 301.300128 
+L 950.0832 301.300128 
+" clip-path="url(#p1d4ed21a1a)" style="fill: none; stroke: #e2e7ea; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 11.52 354.368304 
+L 950.0832 354.368304 
+" clip-path="url(#p1d4ed21a1a)" style="fill: none; stroke: #e2e7ea; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 11.52 407.43648 
+L 950.0832 407.43648 
+" clip-path="url(#p1d4ed21a1a)" style="fill: none; stroke: #e2e7ea; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 11.52 460.504656 
+L 950.0832 460.504656 
+" clip-path="url(#p1d4ed21a1a)" style="fill: none; stroke: #e2e7ea; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 11.52 513.572832 
+L 950.0832 513.572832 
+" clip-path="url(#p1d4ed21a1a)" style="fill: none; stroke: #e2e7ea; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 11.52 566.641008 
+L 950.0832 566.641008 
+" clip-path="url(#p1d4ed21a1a)" style="fill: none; stroke: #e2e7ea; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #59656d" x="19.028506" y="125.922467" transform="rotate(-0 19.028506 125.922467)">METHOD</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #59656d" x="223.635283" y="125.922467" transform="rotate(-0 223.635283 125.922467)">WHAT IT CAN CHANGE</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 10.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #59656d" x="449.829014" y="125.922467" transform="rotate(-0 449.829014 125.922467)">EVIDENCE</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 10.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #59656d" x="670.391366" y="125.922467" transform="rotate(-0 670.391366 125.922467)">LIMIT</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 500; font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(19.028506 164.545001)">Well-sealed</text>
+    <text style="font-weight: 500; font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(19.028506 178.785)">goggles</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(223.635283 164.545001)">Irritant entry</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(223.635283 178.785)">around the eyes</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1f658c" x="449.829014" y="171.665001" transform="rotate(-0 449.829014 171.665001)">Physical barrier</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10.4px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(670.391366 164.767802)">Fit and leaks matter; no controlled</text>
+    <text style="font-size: 10.4px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(670.391366 178.231074)">onion efficacy estimate located.</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 500; font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(19.028506 217.613177)">Air directed</text>
+    <text style="font-weight: 500; font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(19.028506 231.853176)">away from the face</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(223.635283 217.613177)">Transport from</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(223.635283 231.853176)">source to face</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #1f658c" transform="translate(449.829014 217.613177)">Transport reasoning</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #1f658c" transform="translate(449.829014 231.853176)">and conditional model</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10.4px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(670.391366 217.835978)">Benefit depends on direction,</text>
+    <text style="font-size: 10.4px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(670.391366 231.29925)">position and room airflow.</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 500; font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(19.028506 270.681353)">Sharp blade,</text>
+    <text style="font-weight: 500; font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(19.028506 284.921352)">gentle cuts</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(223.635283 270.681353)">Mechanical</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(223.635283 284.921352)">droplet release</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #1f658c" transform="translate(449.829014 270.681353)">Controlled cutting</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #1f658c" transform="translate(449.829014 284.921352)">study</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 10.4px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(670.391366 270.904154)">Fewer droplets do not establish</text>
+    <text style="font-size: 10.4px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(670.391366 284.367426)">less vapour or fewer tears.</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 500; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #202a30" x="19.028506" y="330.869528" transform="rotate(-0 19.028506 330.869528)">Chilled onion</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(223.635283 323.749529)">Chemistry, emission</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(223.635283 337.989528)">and tissue mechanics</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1f658c" x="449.829014" y="330.869528" transform="rotate(-0 449.829014 330.869528)">Net effect uncertain</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 10.4px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(670.391366 323.97233)">No reliable estimate of tearing</text>
+    <text style="font-size: 10.4px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(670.391366 337.435602)">over the whole task located.</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 500; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #202a30" x="19.028506" y="383.937704" transform="rotate(-0 19.028506 383.937704)">Water at the cut</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(223.635283 376.817705)">Direct contact</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(223.635283 391.057704)">and interception</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #1f658c" transform="translate(449.829014 376.817705)">Plausible mechanism;</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #1f658c" transform="translate(449.829014 391.057704)">efficacy unestablished</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 10.4px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(670.391366 377.040506)">Direct contact differs from a</text>
+    <text style="font-size: 10.4px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(670.391366 390.503778)">nearby bowl or wet towel.</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 500; font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(19.028506 429.885881)">Verified low-LF</text>
+    <text style="font-weight: 500; font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(19.028506 444.12588)">variety</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(223.635283 429.885881)">Production of</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(223.635283 444.12588)">lachrymatory factor</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #1f658c" transform="translate(449.829014 429.885881)">Measured LF reduction;</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #1f658c" transform="translate(449.829014 444.12588)">sensory support</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 10.4px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(670.391366 430.108682)">Specific lines; sensory evidence</text>
+    <text style="font-size: 10.4px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(670.391366 443.571954)">was not from a chopping trial.</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 500; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #202a30" x="19.028506" y="490.074056" transform="rotate(-0 19.028506 490.074056)">Root kept intact</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(223.635283 482.954057)">Damage to</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(223.635283 497.194056)">particular tissues</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #1f658c" transform="translate(449.829014 482.954057)">Prevention</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #1f658c" transform="translate(449.829014 497.194056)">unestablished</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 10.4px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(670.391366 483.176858)">No controlled lachrymatory-factor</text>
+    <text style="font-size: 10.4px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(670.391366 496.64013)">or tear comparison located.</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 500; font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(19.028506 536.022233)">Bread or</text>
+    <text style="font-weight: 500; font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(19.028506 550.262232)">chewing gum</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(223.635283 536.022233)">Claimed household</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(223.635283 550.262232)">remedies</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #1f658c" transform="translate(449.829014 536.022233)">Reliable prevention</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #1f658c" transform="translate(449.829014 550.262232)">unestablished</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 10.4px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(670.391366 536.245034)">No adequate peer-reviewed support;</text>
+    <text style="font-size: 10.4px; font-family: 'DejaVu Sans'; fill: #202a30" transform="translate(670.391366 549.708306)">limited patent evidence for gum.</text>
+   </g>
+  </g>
+  <g id="text_37">
+   <text style="font-weight: 700; font-size: 22px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #202a30" x="24.8112" y="28.236562" transform="rotate(-0 24.8112 28.236562)">Which methods have support?</text>
+  </g>
+  <g id="text_38">
+   <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #59656d" x="24.8112" y="65.301403" transform="rotate(-0 24.8112 65.301403)">Evidence concerns different outcomes; it does not supply a universal ranking.</text>
+  </g>
+  <g id="text_39">
+   <text style="font-size: 10.1px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #59656d" x="24.8112" y="610.3296" transform="rotate(-0 24.8112 610.3296)">LF = lachrymatory factor. Evidence status follows the documented search; an unlocated trial is not proof of no effect.</text>
+  </g>
+  <g id="text_40">
+   <text style="font-size: 9.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #59656d" x="24.8112" y="631.5264" transform="rotate(-0 24.8112 631.5264)">Study sources, search limits and method-specific qualifications are provided in the article and claim ledger.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p1d4ed21a1a">
+   <rect x="11.52" y="105.5808" width="938.5632" height="486.864"/>
+  </clipPath>
+ </defs>
+</svg>

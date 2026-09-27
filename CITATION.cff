@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the article and identify the version or Git commit used for these calculations."
+title: "The Science of Why Onions Make Us Cry"
+authors:
+  - family-names: Vaseghi
+    given-names: Sam
+version: 1.1.0
+date-released: 2026-09-27
+type: software
+abstract: "Article, source audit, reproducible idealized three-dimensional transport calculations, figures, and animation for The Serious Science of Small Annoyances. The numerical outputs are conditional model results, not measured onion emissions or human tear responses."

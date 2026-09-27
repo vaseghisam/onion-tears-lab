@@ -1,0 +1,33 @@
+{
+  "source_file": "results/summary.json",
+  "source_sha256": "c17b2e7369533e9d4e3f7597fb581b7ebd7f88011a9825e5ad22e8b5d14fd656",
+  "source_id": "fast",
+  "quantity": "exposure_120s_s_per_m3",
+  "unit": "s/m^3",
+  "rows": [
+    {
+      "label": "No mean drift",
+      "scenario_id": "no_mean_drift",
+      "display_value": "28.94"
+    },
+    {
+      "label": "Toward the observation point",
+      "scenario_id": "toward",
+      "display_value": "52.18"
+    },
+    {
+      "label": "Perpendicular to the source\u2013observer line",
+      "scenario_id": "transverse",
+      "display_value": "0.881"
+    },
+    {
+      "label": "Away from the observation point",
+      "scenario_id": "away",
+      "display_value": "0.0149"
+    }
+  ],
+  "output_sha256": {
+    "png": "fb2b5505e4c6e90f80231ae1cfab6ad615caefcf458c75a1379fb2b1d7db7594",
+    "svg": "cd2d72ea231c6230e6a12d32ad6b2f671fc0e725830749a60913c1e10a683f9a"
+  }
+}

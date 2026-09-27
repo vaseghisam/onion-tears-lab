@@ -1,0 +1,38 @@
+{
+  "status": "passed",
+  "checked_utc": "2026-09-27T11:47:12.505686+00:00",
+  "author_text_preserved_except_documented_production_changes": true,
+  "display_formulas_preserved": 6,
+  "unchanged_scientific_files": {
+    "config/model_config.json": "83a929b08bd57818d654ee91e2deacd2d7e5deb6cd3a29265e9e62f46c3217f7",
+    "data/parameters.csv": "779e359fca5b0b73e36ded6f5f545e4699867393309d4f948da03abb9a944875",
+    "docs/technical_supplement.md": "04133456ebf91aa5bf1cd776b68dabd16c6012e2482dc8d4851a9352943ff276",
+    "results/animation_fields.npz": "5b526aead86f669c30b1f3eb9cbd59e7b4ea97fa366c2b7d896b56231056666a",
+    "results/field_quadrature_convergence.csv": "0c38590ae0e95def557c165f9aef9317ff58667a9e8354d1cd6eeef80364fb05",
+    "results/loss_sensitivity.csv": "a60d9515ed7f90d45ab67c9d72af05b678643516dc5e1703c5f253ba27132997",
+    "results/sensitivity.csv": "ef1e609aa430acedec3d8cb5af17057a23584d8f1a5cca6944055fcdecc097e0",
+    "results/source_histories.csv": "98ec35edef14abdad4412438ec55fe182e4871289d54c877f36633441295bb58",
+    "results/summary.csv": "6eca74d4ea8364728e686fa76fe6fd5f063709d17e091ac27f936c509782b6d9",
+    "results/summary.json": "c17b2e7369533e9d4e3f7597fb581b7ebd7f88011a9825e5ad22e8b5d14fd656",
+    "results/tail_convergence.csv": "76279f10ce08384dee8c6f8aa75aee7d61632fe6454014d00733e4ba200ff3b7",
+    "results/time_convergence.csv": "787ba88b6306472112f7fe189c7b4e21b1bc29193c5c0c03751d00ab7c8dbfed",
+    "results/time_histories.csv": "b4a2e1c72c18b5461b2d14b95e82b0c9e7f4eac9a916330e80639dbb2668023b",
+    "src/model.py": "ca494970f7c757ccbbb072c6f323ed1d86262bd3d861a5cbea789fc7c5a7dc42",
+    "src/run_simulations.py": "b7fd70ab35ef7c29bc55f370a0cdfa1f34c4ac67d37b40e0839e61c326b0703d",
+    "tests/run_checks.py": "cdc825944afe81eaa6a078bb6240381f0ce6b9044e2f77e76e5161f224cee4f9",
+    "tests/test_model_independent.py": "5c53074dfb0228cb6c185d97f8b0280b43bfce4e7f48eecad5b1403e04b60a2c"
+  },
+  "original_figures_and_animation_byte_identical": true,
+  "renamed_original_pngs_reproduced_byte_identically": true,
+  "exposure_table_png_reproduced_byte_identically": true,
+  "independent_markdown_parse": {
+    "article.md": {
+      "images": 8,
+      "display_equations": 6
+    },
+    "article_tk.md": {
+      "images": 8,
+      "display_equations": 6
+    }
+  }
+}

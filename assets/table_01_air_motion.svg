@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1008pt" height="378pt" viewBox="0 0 1008 378" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-27T07:45:41.493318</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 378 
+L 1008 378 
+L 1008 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 52.416 151.2 
+L 956.592 151.2 
+L 956.592 85.05 
+L 52.416 85.05 
+z
+" clip-path="url(#pb121896123)" style="fill: #f2f4f5"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 52.416 283.5 
+L 956.592 283.5 
+L 956.592 217.35 
+L 52.416 217.35 
+z
+" clip-path="url(#pb121896123)" style="fill: #f2f4f5"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 52.416 85.05 
+L 956.592 85.05 
+" clip-path="url(#pb121896123)" style="fill: none; stroke: #202a30; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 52.416 151.2 
+L 956.592 151.2 
+" clip-path="url(#pb121896123)" style="fill: none; stroke: #e2e7ea; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 52.416 217.35 
+L 956.592 217.35 
+" clip-path="url(#pb121896123)" style="fill: none; stroke: #e2e7ea; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 52.416 283.5 
+L 956.592 283.5 
+" clip-path="url(#pb121896123)" style="fill: none; stroke: #e2e7ea; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 52.416 349.65 
+L 956.592 349.65 
+" clip-path="url(#pb121896123)" style="fill: none; stroke: #e2e7ea; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 19.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #59656d" x="52.416" y="39.318" transform="rotate(-0 52.416 39.318)">PRESCRIBED AIR MOTION</text>
+   </g>
+   <g id="text_2">
+    <!-- $E_{120}/M$ -->
+    <g style="fill: #59656d" transform="translate(710.64 36.790687)">
+     <text>
+      <tspan x="0" y="-0.6875" style="font-style: oblique; font-size: 21px; font-family: 'DejaVu Sans'; fill: #59656d">E</tspan>
+      <tspan x="48.975732" y="-0.6875" style="font-style: oblique; font-size: 21px; font-family: 'DejaVu Sans'; fill: #59656d">M</tspan>
+      <tspan x="13.268555" y="2.757812" style="font-size: 14.7px; font-family: 'DejaVu Sans'; fill: #59656d">1</tspan>
+      <tspan x="22.621143" y="2.757812" style="font-size: 14.7px; font-family: 'DejaVu Sans'; fill: #59656d">2</tspan>
+      <tspan x="31.97373" y="2.757812" style="font-size: 14.7px; font-family: 'DejaVu Sans'; fill: #59656d">0</tspan>
+      <tspan x="41.900537" y="-0.6875" style="font-size: 21px; font-family: 'DejaVu Sans'; fill: #59656d">/</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 14.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #59656d" x="710.64" y="54.597906" transform="rotate(-0 710.64 54.597906)">in seconds per cubic metre</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 19.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #202a30" x="67.536" y="123.588562" transform="rotate(-0 67.536 123.588562)">No mean drift</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 22px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1f658c" x="938.448" y="124.195625" transform="rotate(-0 938.448 124.195625)">28.94</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 19.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #202a30" x="67.536" y="189.738562" transform="rotate(-0 67.536 189.738562)">Toward the observation point</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 22px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1f658c" x="938.448" y="190.345625" transform="rotate(-0 938.448 190.345625)">52.18</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 19.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #202a30" x="67.536" y="255.888562" transform="rotate(-0 67.536 255.888562)">Perpendicular to the source–observer line</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 22px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1f658c" x="938.448" y="256.495625" transform="rotate(-0 938.448 256.495625)">0.881</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 19.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #202a30" x="67.536" y="322.038562" transform="rotate(-0 67.536 322.038562)">Away from the observation point</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 22px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1f658c" x="938.448" y="322.645625" transform="rotate(-0 938.448 322.645625)">0.0149</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb121896123">
+   <rect x="0" y="0" width="1008" height="378"/>
+  </clipPath>
+ </defs>
+</svg>

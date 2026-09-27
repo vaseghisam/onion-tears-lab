@@ -1,0 +1,36 @@
+{
+  "frame_count": 61,
+  "physical_duration_s": 60.0,
+  "snapshot_time_s": 13.0,
+  "colour_scale": "logarithmic; common across every panel and frame",
+  "colour_min_per_m3": 0.001,
+  "colour_max_per_m3": 100.0,
+  "below_colour_min": "shown as white",
+  "displayed_plane": "y = 0 m",
+  "scenario_order": [
+    "no_mean_drift",
+    "toward",
+    "away",
+    "transverse"
+  ],
+  "mp4_frames_per_second": 6,
+  "mp4_frame_count": 70,
+  "mp4_nominal_duration_s": 11.666666666666666,
+  "gif_unique_frames": 61,
+  "gif_duration_ms": 11260,
+  "gif_dimensions_px": [
+    1150,
+    1019
+  ],
+  "timing_note": "GIF centisecond timing differs slightly from MP4; the clock always shows physical time.",
+  "extra_hold_frames": {
+    "opening": 3,
+    "closing": 6
+  },
+  "input_files_sha256": {
+    "results/animation_fields.npz": "5b526aead86f669c30b1f3eb9cbd59e7b4ea97fa366c2b7d896b56231056666a",
+    "results/time_histories.csv": "b4a2e1c72c18b5461b2d14b95e82b0c9e7f4eac9a916330e80639dbb2668023b",
+    "results/summary.csv": "6eca74d4ea8364728e686fa76fe6fd5f063709d17e091ac27f936c509782b6d9",
+    "config/model_config.json": "83a929b08bd57818d654ee91e2deacd2d7e5deb6cd3a29265e9e62f46c3217f7"
+  }
+}
