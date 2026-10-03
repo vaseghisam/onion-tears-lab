@@ -52,7 +52,7 @@ python scripts/verify_manifest.py
 python scripts/reproduce.py
 ```
 
-The full reproduction regenerates the result tables, sampled fields, all generated figures, both animation formats, the TK export, and executable QA records. It overwrites generated files in this working copy. Extract a second copy first if you want to preserve the delivered files for comparison. `MANIFEST.sha256` identifies the delivered version, so check it **before** regeneration; new report timestamps and rendering metadata can change hashes without changing the numerical results.
+The full reproduction regenerates the result tables, sampled fields, all generated figures, both animation formats, the TK export, and executable QA records. It overwrites generated files in this working copy. Extract a second copy first if you want to preserve the delivered files for comparison. `MANIFEST.sha256` identifies the current repository files, so check it **before** regeneration; new report timestamps and rendering metadata can change hashes without changing the numerical results.
 
 The stages can also be run separately:
 
@@ -80,12 +80,12 @@ Read [the numerical review](qa/numerical_review.md), [the scientific review](qa/
 
 For exact numerical comparison, use saved CSV/JSON values and the tolerances in the independent checks. Across machines, font rendering, image metadata, video encoding and archive timestamps need not be byte-identical. The input parameters, equations, plotted scales and numerical conclusions should agree within the stated tolerances.
 
-## Publication and private GitHub repository
+## Publication and repository access
 
-Extract the ZIP and put the contents of `onion-tears-lab/` at the root of your GitHub repository. Preserve the relative paths, source files, saved results and review records. No credentials or third-party paper PDFs are included. The final manuscript's three third-party images are bundled with source records. The original investigators' datasets remain linked at their sources.
+The computational companion is available in the public [onion-tears-lab repository](https://github.com/vaseghisam/onion-tears-lab). Read the published article, [The Science of Why Onions Make Us Cry So Much](https://medium.com/the-quantastic-journal/the-science-of-why-onions-make-us-so-much-cry-664d7152dde8), on Medium. Preserve the relative paths, source files, saved results and review records when downloading this repository. No credentials or third-party paper PDFs are included. The final manuscript's three third-party images are bundled with source records. The original investigators' datasets remain linked at their sources.
 
-For Medium/TK, use the complete `article_tk.md`; upload the accompanying images and animation through the publishing editor as needed. The Markdown syntax has been locally checked. An actual TK import has not been tested in this project. The GIF can be replaced by `assets/animation_01_transport_static.png` where animation is unsuitable, with the MP4 linked separately. The repository is intended to remain private. Readers may request access from the author; access is considered individually. The article includes this policy, and no public repository URL is required.
+For Medium/TK, use the complete `article_tk.md`; upload the accompanying images and animation through the publishing editor as needed. The Markdown syntax has been locally checked. An actual TK import has not been tested in this project. The GIF can be replaced by `assets/animation_01_transport_static.png` where animation is unsuitable, with the MP4 linked separately. The repository is public. The private-access note retained in the bundled manuscript records the earlier release plan; this README describes the current availability.
 
-No general reuse licence has been selected. Add your chosen article, asset and code terms before inviting reuse. Citation information is provided in `CITATION.cff`. No repository URL or archival DOI is assumed.
+See [LICENSE](LICENSE) for the repository's MIT licence and [assets/asset_sources.json](assets/asset_sources.json) for third-party image sources and attribution records. Citation information is provided in `CITATION.cff`; no archival DOI has been assigned.
 
 To produce a new archive after intentional changes, rerun the relevant scientific and numerical checks, update the release review and version metadata, then run `python scripts/build_archive.py`. This refreshes the manifest and creates a ZIP beside the project folder.
